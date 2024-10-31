@@ -10,22 +10,17 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/agneslam777/data-and-code-a2-code** and import
+* search for **https://github.com/agneslam777/adventure-quencher-final** and import
 
-## Edit this project ![Build status badge](https://github.com/agneslam777/data-and-code-a2-code/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/agneslam777/adventure-quencher-final/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/agneslam777/data-and-code-a2-code** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/agneslam777/data-and-code-a2-code/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/agneslam777/adventure-quencher-final/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
