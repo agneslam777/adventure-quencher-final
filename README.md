@@ -1,4 +1,4 @@
-> Open this page at [https://agneslam777.github.io/adventure-quencher-final/](https://agneslam777.github.io/adventure-quencher-final/)
+> Open game 'Adventure Quencher' at [https://agneslam777.github.io/adventure-quencher-final/](https://agneslam777.github.io/adventure-quencher-final/)
 
 ## Use as Extension
 
