@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAADw///u7v8AAPD/7+7+/w8A/+7u4REv8gDvPuPu/y8iD+/u7u7/LyIP8O/u7hEvIg/wPuPh/v/iD/Du7u7u7u4PAO/u7u7u7g8A8P/u7u7uDwD/7u7u7v4AAO/u7v7/DwDw7u7u7u4PAPDu7u7u/gAA8O7///8PAADw/g8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "projectile"
+    },
+    "image2": {
+        "data": "hwQQABAAAACwuwu7u7u7C+vuu1VV684LS+S7VVXr7gtLRLtVVevuC0tEu1VVVVUFS0S7VVXr7gtLRLtbVevuC0tEzbxV6+4LS0TNvFXr7gtLRLtbVevuC0tEu1VV6+4LS0S7VVVV5QtLRLtVVevuC0vku1VV6+4LS+67VVXrzguwuwu7u7u7Cw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "treasure"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
